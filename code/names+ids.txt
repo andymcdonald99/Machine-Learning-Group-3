@@ -1,0 +1,106 @@
+Knight: 1
+Archers: 2
+Goblins: 3
+Giant: 4
+P.E.K.K.A: 5
+Minions: 6
+Balloon: 7
+Witch: 8
+Barbarians: 9
+Golem: 10
+Skeletons: 11
+Valkyrie: 12
+Skeleton Army: 13
+Bomber: 14
+Musketeer: 15
+Baby Dragon: 16
+Prince: 17
+Wizard: 18
+Mini P.E.K.K.A: 19
+Spear Goblins: 20
+Giant Skeleton: 21
+Hog Rider: 22
+Minion Horde: 23
+Ice Wizard: 24
+Royal Giant: 25
+Guards: 26
+Princess: 27
+Dark Prince: 28
+Three Musketeers: 29
+Lava Hound: 30
+Ice Spirit: 31
+Fire Spirit: 32
+Miner: 33
+Sparky: 34
+Bowler: 35
+Lumberjack: 36
+Battle Ram: 37
+Inferno Dragon: 38
+Ice Golem: 39
+Mega Minion: 40
+Dart Goblin: 41
+Goblin Gang: 42
+Electro Wizard: 43
+Elite Barbarians: 44
+Hunter: 45
+Executioner: 46
+Bandit: 47
+Royal Recruits: 48
+Night Witch: 49
+Bats: 50
+Royal Ghost: 51
+Ram Rider: 52
+Zappies: 53
+Rascals: 54
+Cannon Cart: 55
+Mega Knight: 56
+Skeleton Barrel: 57
+Flying Machine: 58
+Wall Breakers: 59
+Royal Hogs: 60
+Goblin Giant: 61
+Fisherman: 62
+Magic Archer: 63
+Electro Dragon: 64
+Firecracker: 65
+Elixir Golem: 66
+Battle Healer: 67
+Skeleton King: 68
+Archer Queen: 69
+Golden Knight: 70
+Skeleton Dragons: 71
+Mother Witch: 72
+Electro Spirit: 73
+Electro Giant: 74
+Cannon: 75
+Goblin Hut: 76
+Mortar: 77
+Inferno Tower: 78
+Bomb Tower: 79
+Barbarian Hut: 80
+Tesla: 81
+Elixir Collector: 82
+X-Bow: 83
+Tombstone: 84
+Furnace: 85
+Goblin Cage: 86
+Goblin Drill: 87
+Fireball: 88
+Arrows: 89
+Rage: 90
+Rocket: 91
+Goblin Barrel: 92
+Freeze: 93
+Mirror: 94
+Lightning: 95
+Zap: 96
+Poison: 97
+Graveyard: 98
+The Log: 99
+Tornado: 100
+Clone: 101
+Earthquake: 102
+Barbarian Barrel: 103
+Heal Spirit: 104
+Giant Snowball: 105
+Royal Delivery: 106
